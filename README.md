@@ -1,6 +1,9 @@
 # rose-pine-zed-transparent
+
 Transparency settings for Rosé Pine theme in zed
+
 ## Renderings
+
 <p align="center">
     <img src="images/editor.png" alt="zed editor">
 </p>
@@ -9,7 +12,8 @@ Transparency settings for Rosé Pine theme in zed
 </p>
 
 ## Usage
-Place `theme.json` into `.config/zed/theme` folder
+
+Place `theme.json` into `.config/zed/themes` folder
 
 Set `"theme": "Rosé Pine"` in `.config/zed/settings.json`
 
